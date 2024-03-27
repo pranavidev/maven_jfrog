@@ -32,7 +32,7 @@
     <repository>
         <id>central</id>
         <name>MAVEN01-releases</name>
-        <url>http://jfrog.pranaviazureb40.xyz/artifactory/libs-release-local</url>
+        <url>http://jfrog.pranaviazureb40.xyz:8082/artifactory/libs-release-local</url>
     </repository>
   </distributionManagement>
   <dependencies>
